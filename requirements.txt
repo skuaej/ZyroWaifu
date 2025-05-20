@@ -30,3 +30,4 @@ telethon==1.26.1
 TgCrypto==1.2.5
 nltk
 cloudscraper
+requests
