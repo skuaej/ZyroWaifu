@@ -28,7 +28,7 @@ def LOGGER(name: str) -> logging.Logger:
 api_id = os.getenv("API_ID", "27479878")  # Fetch from environment variable
 api_hash = os.getenv("API_HASH", "05f8dc8265d4c5df6376dded1d71c0ff")   # Fetch from environment variable
 
-TOKEN = os.getenv("TOKEN", "7684044522:AAFvwlFIekX85iwgpQZJ2BllAOizlJwkN9o")          # Fetch from environment variable
+TOKEN = os.getenv("TOKEN", "7841818574:AAGc5UhknlR0MNxww2i1j_YSHvN0KhcGWok")          # Fetch from environment variable
 
 GLOG = os.getenv("GLOG", "fghu6yt") # USERNAME ONLY
 CHARA_CHANNEL_ID = os.getenv("CHARA_CHANNEL_ID", "hhhuu66uj") #USERNAME ONLY
