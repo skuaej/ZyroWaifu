@@ -21,7 +21,7 @@ aiofiles
 yt_dlp
 telethon
 #dnspython==2.2.1
-
+instaloader
 #psutil==5.9.4
 #pyromod==1.5
 pyrogram==2.0.106
